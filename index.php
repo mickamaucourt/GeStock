@@ -1,0 +1,1 @@
+Alors mon petit simon, ta branche c'est la ou tu vas bosser, modifier le code et tout ce qui est en rapport avec l'appli web, moi je bosserais dans ma branche et on réunira les branches après pour prendre en compte les modifs sur la branche production
